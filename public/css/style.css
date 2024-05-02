@@ -7,11 +7,12 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *
 * ======================================================= */
 body {
-  font-family: "Open Sans", Arial, sans-serif;
+  /*font-family: "Open Sans", Arial, sans-serif;*/
+  font-family: "Times New Roman";
   font-weight: 400;
   font-size: 16px;
   line-height: 1.7;
@@ -53,7 +54,7 @@ a {
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #66D37E;
+  color: #66A37E;
   outline: none;
   text-decoration: none;
 }
@@ -64,7 +65,8 @@ p {
 
 h1, h2, h3, h4, h5, h6, figure {
   color: #000;
-  font-family: "Open Sans", Arial, sans-serif;
+  /*font-family: "Open Sans", Arial, sans-serif;*/
+    font-family: "Times New Roman";
   font-weight: 400;
   margin: 0 0 20px 0;
 }
@@ -282,7 +284,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #66D37E;
 }
 .gtco-nav ul li.active > a {
-  color: #66D37E !important;
+  color: #e56464 !important;
 }
 
 #gtco-header {
@@ -352,7 +354,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #gtco-header h1 strong {
   font-weight: 700;
-  color: #66D37E;
+  color: #e56464;
 }
 @media screen and (max-width: 768px) {
   #gtco-header h1 {
@@ -1458,7 +1460,8 @@ form label {
 .btn {
   margin-right: 4px;
   margin-bottom: 4px;
-  font-family: "Open Sans", Arial, sans-serif;
+  /*font-family: "Open Sans", Arial, sans-serif;*/
+    font-family:"Times New Roman";
   font-size: 16px;
   font-weight: 400;
   -webkit-border-radius: 4px;

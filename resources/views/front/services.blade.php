@@ -1,13 +1,12 @@
 @extends('front.master')
 @section('content')
     <header id="gtco-header" class="gtco-cover gtco-cover-sm" role="banner"
-            style="background-image: url(images/img_bg_4.jpg)" data-stellar-background-ratio="0.5">
+            style="background-image: url(images/img_bg_2.jpg)" data-stellar-background-ratio="0.5">
         <div class="overlay"></div>
         <div class="gtco-container">
             <div class="row row-mt-15em">
                 <div class="col-md-7 mt-text text-left animate-box" data-animate-effect="fadeInUp">
                     <h1>Our <strong>Services</strong></h1>
-                    <h2>Far far away, behind the word mountains, far from the countries Vokalia.</h2>
                 </div>
             </div>
         </div>
@@ -18,8 +17,6 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 text-center gtco-heading">
                         <h2>Services</h2>
-                        <p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem
-                            provident. Odit ab aliquam dolor eius.</p>
                     </div>
                 </div>
                 <div class="row">

@@ -68,7 +68,7 @@
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-md-6 col-xs-6">
-                            <div id="gtco-logo"><a href="{{ route('index') }}">Honest <em>.</em></a></div>
+                            <div id="gtco-logo"><a href="{{ route('index') }}">Designer</a></div>
                         </div>
                     </div>
                 </div>
